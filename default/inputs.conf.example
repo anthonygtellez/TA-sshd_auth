@@ -1,0 +1,3 @@
+[monitor:///var/log/auth.log*]
+index = auth
+sourctype = auth:log
